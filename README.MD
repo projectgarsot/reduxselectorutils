@@ -1,4 +1,7 @@
- Example use:
+<iframe src="https://gamma.app/embed/vaj0gwve7jfon0z" style="width: 700px; max-width: 100%; height: 450px" allow="fullscreen" title="Garsot: The World's First Complete Local-First Architecture"></iframe>
+
+
+Example use:
 
 /**
  * Selector to filter wishlist items based on various criteria.
